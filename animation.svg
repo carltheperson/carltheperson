@@ -4,7 +4,7 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				#spinner {
-					font-size: 50px;
+					font-size: 40px;
 					text-align: center;
 					animation-name: spin, depth;
 					animation-timing-function: linear;
