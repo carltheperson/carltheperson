@@ -13,7 +13,6 @@
 					transform-style: preserve-3d;
 					position: relative;
 					margin: 0;
-					margin-left: 100px;
 					padding: 0;
 				}
 				#spinner::before,
@@ -44,6 +43,7 @@
 				}
 
 				.container {
+					padding-left: 100px;
 					margin-bottom: -500px;
 				}
 			</style>
