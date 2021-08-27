@@ -9,7 +9,7 @@
 					animation-name: spin, depth;
 					animation-timing-function: linear;
 					animation-iteration-count: infinite;
-					animation-duration: 6s;
+					animation-duration: 10s;
 					transform-style: preserve-3d;
 					position: relative;
 					margin: 0;
