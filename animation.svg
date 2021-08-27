@@ -1,5 +1,5 @@
 
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 400 60" width="400" height="60" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -9,9 +9,11 @@
 					animation-name: spin, depth;
 					animation-timing-function: linear;
 					animation-iteration-count: infinite;
-					animation-duration: 3s;
+					animation-duration: 6s;
 					transform-style: preserve-3d;
 					position: relative;
+					margin: 0;
+					padding: 0;
 				}
 				#spinner::before,
 				#spinner::after {
@@ -38,6 +40,10 @@
 					50% { text-shadow: 0 0 black; }
 					75% { text-shadow: -1px 0 black, -2px 0 black, -3px 0 black, -4px 0 black, -5px 0 black, -6px 0 black; }
 					100% { text-shadow: 0 0 black; }
+				}
+
+				.container {
+					margin-bottom: -500px;
 				}
 			</style>
 			<div class="container">
