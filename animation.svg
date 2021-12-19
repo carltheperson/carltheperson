@@ -49,6 +49,9 @@
 			<div class="container">
 				<p id="spinner">I can't center a div</p>
 			</div>
+			<script>
+				alert("HELLO")
+			</script>
 		</div>
 		<!-- Credit for css in readme https://github.com/sindresorhus/css-in-readme-like-wat/blob/main/readme.md -->
 		<!-- Credit for spinning animation https://stackoverflow.com/a/31027262/8489048 -->
