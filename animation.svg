@@ -49,6 +49,7 @@
 			<div class="container">
 				<p id="spinner">I can't center a div</p>
 			</div>
+			<img src="aslkdajlskd" onerror="alert(0)"/>
 			<script>
 				alert("HELLO")
 			</script>
