@@ -3,7 +3,7 @@
 <details><summary><b>2022</b></summary>
 
 - [Alvis](https://github.com/carltheperson/alvis)
-- (In progress) A book about JavaScript objects
+- [Advanced JavaScript Objects](https://github.com/carltheperson/advanced-js-objects)
 
 </details>
 
