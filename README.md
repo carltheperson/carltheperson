@@ -1,5 +1,7 @@
 ## All my projects
 
+<sub>Click to expand</sub>
+
 <details><summary><b>2022</b></summary>
 
 - [Alvis](https://github.com/carltheperson/alvis)
@@ -56,3 +58,4 @@
 - [ASCII Maze](https://github.com/carltheperson/ASCII-Maze)
 
 </details>
+
