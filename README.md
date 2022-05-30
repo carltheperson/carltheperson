@@ -1,7 +1,5 @@
 ## All my projects
 
-<sup>Click to expand</sup>
-
 <details><summary><b>2022</b></summary>
 
 - [Alvis](https://github.com/carltheperson/alvis)
