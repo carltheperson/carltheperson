@@ -1,6 +1,6 @@
 ## All my projects
 
-<sub>Click to expand</sub>
+<sup>Click to expand</sup>
 
 <details><summary><b>2022</b></summary>
 
