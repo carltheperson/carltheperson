@@ -4,6 +4,7 @@
 
 - [Alvis](https://github.com/carltheperson/alvis)
 - [Advanced JavaScript Objects](https://github.com/carltheperson/advanced-js-objects)
+- [Boxes and Eggs](https://github.com/carltheperson/boxes-and-eggs)
 
 </details>
 
