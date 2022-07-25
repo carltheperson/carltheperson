@@ -6,6 +6,7 @@
 - [Advanced JavaScript Objects](https://github.com/carltheperson/advanced-js-objects)
 - [Boxes and Eggs](https://github.com/carltheperson/boxes-and-eggs)
 - [RxJS Notes](https://github.com/carltheperson/rxjs-notes)
+- [Assembly Enigma](https://github.com/carltheperson/assembly-enigma)
 
 </details>
 
