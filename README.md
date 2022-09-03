@@ -7,6 +7,7 @@
 - [Boxes and Eggs](https://github.com/carltheperson/boxes-and-eggs)
 - [RxJS Notes](https://github.com/carltheperson/rxjs-notes)
 - [Assembly Enigma](https://github.com/carltheperson/assembly-enigma)
+- [Artgen](https://github.com/carltheperson/artgen)
 
 </details>
 
