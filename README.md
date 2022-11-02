@@ -8,6 +8,7 @@
 - [RxJS Notes](https://github.com/carltheperson/rxjs-notes)
 - [Assembly Enigma](https://github.com/carltheperson/assembly-enigma)
 - [Artgen](https://github.com/carltheperson/artgen)
+- [Blockamok](https://github.com/carltheperson/blockamok)
 
 </details>
 
