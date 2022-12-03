@@ -15,8 +15,6 @@
 
 <details><summary><b>2021</b></summary>
 
-[Watch my YouTube video about these projects](https://www.youtube.com/watch?v=EXPazYZRNws)
-
 - [Blog v1](https://github.com/carltheperson/carltheperson-com/tree/6a5fa17b27d8d9b5995e85f8ece8d004ab79e198)
 - [10 Things Linux](https://github.com/carltheperson/10-things-linux)
 - [Game of Life](https://github.com/carltheperson/game-of-life)
@@ -29,8 +27,6 @@
 </details>
 
 <details><summary><b>2020</b></summary>
-
-[Watch my YouTube video about these projects](https://www.youtube.com/watch?v=cPBRbe86HbQ)
 
 - [Island Flyer](https://github.com/carltheperson/island-flyer)
 - [Connect Dev](https://github.com/carltheperson/Connect-Dev)
@@ -45,8 +41,6 @@
 </details>
 
 <details><summary><b>2019</b></summary>
-
-[Watch my YouTube video about these projects](https://www.youtube.com/watch?v=N3h2HNLCxuU)
 
 - [Cannon Simulator](https://github.com/carltheperson/Cannon-Simulator)
 - [Watermarker](https://github.com/carltheperson/Watermarker)
