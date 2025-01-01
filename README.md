@@ -1,5 +1,6 @@
 <details><summary><h3>View all my projects</h3></summary>
 
+- [latch](https://github.com/carltheperson/latch)
 - [EarlGreyTV](https://github.com/carltheperson/earlgreytv)
 
 - [HN Matching Pairs](https://github.com/carltheperson/hn-matching-pairs)
