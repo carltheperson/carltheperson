@@ -1,5 +1,6 @@
 <details><summary><h3>View all my projects</h3></summary>
 
+- [Rust-one-binary-POC]](https://github.com/carltheperson/rust-one-binary-poc)
 - [latch](https://github.com/carltheperson/latch)
 - [EarlGreyTV](https://github.com/carltheperson/earlgreytv)
 
